@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="2938-tqy:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/2938_tqy_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="2938-tqy/web/Web" />
+    </root>
+  </artifact>
+</component>
